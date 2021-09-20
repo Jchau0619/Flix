@@ -14,7 +14,9 @@
 ### App Walkthrough GIF
 `TODO://` Add the URL to your animated app walkthough `gif` in the image tag below, `YOUR_GIF_URL_HERE`. Make sure the gif actually renders and animates when viewing this README. (🚫 Remove this paragraph after after adding gif)
 
-https://user-images.githubusercontent.com/86847268/133950506-436ebb26-1419-457f-a763-6ef964ac931e.gif
+
+![5nkf27](https://user-images.githubusercontent.com/86847268/133950551-e90c0766-c656-4bd1-ad48-33b23cb9e772.gif)
+
 
 ### Notes
 Describe any challenges encountered while building the app.
